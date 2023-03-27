@@ -1,0 +1,185 @@
+-------------Queue 1--------------
+******Customer 1*******
+1) First Name: s
+2) Second Name: s
+3) Vehicle No: 14
+4) No. of Litres required: 1
+
+******Customer 2*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 3*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 4*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 5*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 6*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+-------------Queue 2--------------
+******Customer 1*******
+1) First Name: s
+2) Second Name: s
+3) Vehicle No: 48
+4) No. of Litres required: 44
+
+******Customer 2*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 3*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 4*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 5*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 6*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+-------------Queue 3--------------
+******Customer 1*******
+1) First Name: uyv
+2) Second Name: fty
+3) Vehicle No: ig
+4) No. of Litres required: 1
+
+******Customer 2*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 3*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 4*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 5*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 6*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+-------------Queue 4--------------
+******Customer 1*******
+1) First Name: s
+2) Second Name: s
+3) Vehicle No: s
+4) No. of Litres required: 1
+
+******Customer 2*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 3*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 4*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 5*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 6*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+-------------Queue 5--------------
+******Customer 1*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 2*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 3*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 4*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 5*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
+******Customer 6*******
+1) First Name: Empty!
+2) Second Name: Empty!
+3) Vehicle No: Empty!
+4) No. of Litres required: 0
+
